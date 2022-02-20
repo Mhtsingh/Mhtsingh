@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mhtsingh
+- 👋 Hi, I’m Mohit Singh
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently in Master's student Hochschule Wismae
-- 💞️ I’m looking to collaborate on web devlopment
+- 🌱 I’m currently in Master's student Hochschule Wismar
 - 📫 Email me mhtsingh952@gmail.com
 
 
